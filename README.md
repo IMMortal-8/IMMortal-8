@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Discord : [pci9](https://discord.com/users/544117009902862357)**
 
-- 🛒 Store : **[RSS](https://discord.gg/VzSHHHAsTG)**
+- 🛒 Store : **[Moyware](https://discord.gg/gRHzEe5FQD)**
   
 - ⚡ Fun fact **I don't know NodeJs**
 
