@@ -22,7 +22,7 @@
 
 - 🛒 Store : **[Moyware](https://discord.gg/gRHzEe5FQD)**
   
-- ⚡ Fun fact **I don't know NodeJs**
+- ⚡ Fun fact **Full Stack php**
 
 <h3 align="left">Connect with me 💜:</h3>
 <p align="left">
